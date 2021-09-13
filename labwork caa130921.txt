@@ -1,2 +1,5 @@
 test push using git bash
 ini the beninging
+
+
+HOW TO USE git bash
