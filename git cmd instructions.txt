@@ -1,0 +1,22 @@
+test push using git bash
+ini the beninging
+
+Create Remote Connection using:
+git remote add <name of connection> <connection url>
+
+HOW TO LIST REMOTE CONNECTIONS
+git remote -v
+ref: https://www.git-tower.com/learn/git/commands/git-remote/
+
+HOW TO USE git bash
+ADD FILE
+1) Create file
+2) add to staging area
+git add <filename>
+3) commit changes
+git push -m "<commit message here>"
+git push -u <name of connection> <branch name>
+
+
+PULL FILE
+1)git pull <name of connection>
