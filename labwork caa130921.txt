@@ -3,3 +3,5 @@ ini the beninging
 
 
 HOW TO USE git bash
+
+weee
